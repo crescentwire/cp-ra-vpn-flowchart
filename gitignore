@@ -1,0 +1,15 @@
+# General files to ignore
+.DS_Store
+Thumbs.db
+
+# VS Code project files
+.vscode/
+
+# Draw.io backup or temp files
+*.bak
+*.tmp
+*.drawio~*
+
+# Exported formats (optional)
+*.pdf
+*.png
